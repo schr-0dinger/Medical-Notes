@@ -4,16 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "5063c7ca536ff60e",
+        "id": "76116fbda59eb60e",
         "type": "tabs",
+        "dimension": 67.61744966442953,
         "children": [
           {
-            "id": "8a38db1848b44ece",
+            "id": "0d918c2b37d1aa1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "General Medicine/Syncope.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "9919245bcaf38f9d"
+          }
+        ]
+      },
+      {
+        "id": "26cfa4c8ddb61270",
+        "type": "tabs",
+        "dimension": 32.38255033557047,
+        "children": [
+          {
+            "id": "7db09222a5587eff",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "General Medicine/Syncope.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "9919245bcaf38f9d"
           }
         ]
       }
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General Medicine/Syncope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General Medicine/Syncope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "General Medicine/Syncope.md"
+              }
             }
           }
         ]
@@ -138,8 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a38db1848b44ece",
+  "active": "0d918c2b37d1aa1e",
   "lastOpenFiles": [
+    "General Medicine/Syncope.md",
+    "General Medicine",
+    "Untitled.md",
+    "README.md",
     "Introduction.md",
     "Welcome.md"
   ]
