@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "76116fbda59eb60e",
+        "id": "fc24bd1868ed6bb4",
         "type": "tabs",
-        "dimension": 67.61744966442953,
         "children": [
           {
-            "id": "0d918c2b37d1aa1e",
+            "id": "bdfdced8c923ffc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Medicine/Syncope.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "9919245bcaf38f9d"
-          }
-        ]
-      },
-      {
-        "id": "26cfa4c8ddb61270",
-        "type": "tabs",
-        "dimension": 32.38255033557047,
-        "children": [
+            }
+          },
           {
-            "id": "7db09222a5587eff",
+            "id": "d3c9e6a2618e63dc",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "General Medicine/Syncope.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "9919245bcaf38f9d"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "06442fd000842310",
@@ -130,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Medicine/Syncope.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Medicine/Syncope.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Medicine/Syncope.md"
+                "file": "Index.md"
               }
             }
           }
@@ -191,12 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d918c2b37d1aa1e",
+  "active": "d3c9e6a2618e63dc",
   "lastOpenFiles": [
+    "README.md",
+    "Index.md",
+    "General Medicine/Nephrology.md",
+    "General Medicine/Electrolyte disorders.md",
+    "Pediatrics/Cystinosis.md",
+    "Pediatrics",
+    "Lysosomal storage diseases.md",
     "General Medicine/Syncope.md",
     "General Medicine",
-    "Untitled.md",
-    "README.md",
     "Introduction.md",
     "Welcome.md"
   ]
